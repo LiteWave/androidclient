@@ -1,0 +1,1 @@
+include ':app', ':litewave_lib-release'
